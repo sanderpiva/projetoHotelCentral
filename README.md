@@ -42,8 +42,8 @@
 </div>
 <div>
   <p>Algumas fotos da aplicação final: </p>
-  <img src="caminho_da_imagem.jpg" alt="Foto 1: ChatBot Hotel Central">
-  <img src="caminho_da_imagem.jpg" alt="Foto 2: Consulta sobre lazer e atrações do Hotel Central">
-  <img src="caminho_da_imagem.jpg" alt="Foto 3: As opções de lazer e atrações do Hotel Central">
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto1_app_hotel_central.png" alt="Foto 1: ChatBot Hotel Central">
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto2_app_hotel_central.png" alt="Foto 2: Consulta sobre lazer e atrações do Hotel Central">
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto3_app_hotel_central.png" alt="Foto 3: As opções de lazer e atrações do Hotel Central">
 
 </div>
