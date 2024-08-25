@@ -19,7 +19,7 @@
     fornecida é a que mais se aproxima daquilo que foi consultado ou perguntado.
     Supondo que tenha funcionado, o próximo passa será pegar o dataframe e salva-lo em um arquivo chamado datasetEmbeddings.pkl. 
     Ao salvar o DataFrame, ele é convertido em uma representação binária
-    que pode ser facilmente armazenada e carregada posteriormente. O código no Google Colab, seu dataframe, incluindo fotos de testes no Postman estão disponíveis nesse repositório
+    que pode ser facilmente armazenada e carregada posteriormente. Esse arquivo está dentro do código em Flask. O código no Google Colab, seu dataframe, incluindo fotos de testes no Postman estão disponíveis nesse repositório
     para download. 
   </p>
 </div>
