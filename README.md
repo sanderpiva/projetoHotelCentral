@@ -1,4 +1,7 @@
 <h1>Projeto Hotel Central</h1>
+O projeto Hotel Central trata-se de um exemplo de ChatBot, baseado em Processamento de Linguagem Natural, que visa proporcionar ao usuário uma interação de um chatbot
+  sobre o tema 'Hotel Central'. O Hotel Central é um caso de um hotel bem estruturado, confortável e com boas opções de lazer e entreterimento que fica na cidade de Rio Preto SP
+  perto da praça Dom Udarico Rechiel, permitindo aos seus hóspedes uma excelente estadia, descando e acesso aos principais centros comerciais e empresariais.
 <div>
   <p>O projeto Hotel Central trata-se de um exemplo de ChatBot, baseado em Processamento de Linguagem Natural, que visa proporcionar ao usuário uma interação de um chatbot
   sobre o tema 'Hotel Central'. O Hotel Central é um caso de um hotel bem estruturado, confortável e com boas opções de lazer e entreterimento que fica na cidade de Rio Preto SP
