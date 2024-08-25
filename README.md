@@ -2,20 +2,20 @@
 <div>
   <p>O projeto Hotel Central trata-se de um exemplo de ChatBot, baseado em Processamento de Linguagem Natural, que visa proporcionar ao usuário uma interação de um chatbot
   sobre o tema 'Hotel Central'. O Hotel Central é um caso de um hotel bem estruturado, confortável e com boas opções de lazer e entreterimento que fica na cidade fictícia de Rio Preto SP
-  perto da praça Dom Udarico Rechiel, permitindo aos seus hóspedes uma excelente estadia, descando e acesso aos principais centros comerciais e empresariais.</p>
+  perto da praça Dom Udarico Rechiel, permitindo aos seus hóspedes uma excelente estadia, descanso e acesso aos principais centros comerciais e empresariais.</p>
 </div>
 <div>
   <p>
     Em termos de codifificação, em linhas gerais, foi implementado um código no Google Colab 'Hotel_Central_ChatbotBackend.ipynb' cujo dataframe (base de dados)
-    é 'dados2_pln_sem_acento'. Após o correto carregamento do dados, do 'model = 'models/text-embedding-004', é chamado o método 'gerarEmbeddings' para gerar 
+    é 'dados2_pln_sem_acento'. Após o correto carregamento do dados, bem como do modelo: 'model = 'models/text-embedding-004', é chamado o método 'gerarEmbeddings' para gerar 
     embeddings aos registros ou linhas do dataframe cujas colunas são 'Titulo' e 'Conteudo'. Os embeddings são representações numéricas dos tokens processados na rede neural (768 camadas), porém essa numeração não representa diretamente o respectivo token em si, mas sim suas caracteristicas abstratas como significado, contexto, sintaxe e semântica.
   </p>
 </div>
 <div>
   <p>
     Na prática, será obtido um novo dataframe com uma coluna adicional 'Embeddings', correspondente a cada registro. Quando o método 'gerarBuscaConsulta' for chamado,
-    passando os parametros 'consulta' e o 'dafaframe' novo, será possível realizar testes de consulta onde a pergunta, consulta será um 'embedding' que será mapeado dentro 
-    do dataframe com os seus embeddings. A resposta, cuja probabilidade varia entre 0 - 100%, deverá ser o resultado com probabilidade mais perto de 100%. Isso significa que a resposta
+    passando os parametros 'consulta' e o 'dafaframe' novo, será possível realizar testes de consulta onde a pergunta ou consulta será um 'embedding' que será mapeado dentro 
+    do dataframe com seus embeddings. A resposta, cuja probabilidade varia entre 0 - 100%, deverá ser o resultado com probabilidade mais perto de 100%. Isso significa que a resposta
     fornecida é a que mais se aproxima daquilo que foi consultado ou perguntado.
     Supondo que tenha funcionado, o próximo passa será pegar o dataframe e salva-lo em um arquivo chamado datasetEmbeddings.pkl. 
     Ao salvar o DataFrame, ele é convertido em uma representação binária
@@ -39,6 +39,11 @@
 </div>
 <div>
   <p>Integrantes do projeto: </p>
+  <ul>
+    <li>Darlene Leão de Souza</li>
+    <li>Renan Feliciano Rocha</li>
+    <li>Sander Gustavo Piva</li>
+  </ul>
 </div>
 <div>
   <p>Algumas fotos da aplicação final: </p>
