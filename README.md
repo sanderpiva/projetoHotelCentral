@@ -41,5 +41,7 @@
   <p>Integrantes do projeto: </p>
 </div>
 <div>
-  <p>Uma foto da aplicação final: </p>
+  <p>Algumas fotos da aplicação final: </p>
+  ![foto1_app_hotel-central](https://github.com/user-attachments/assets/44bdbfdc-33da-4ea3-afdd-5ab7c8024950)
+
 </div>
