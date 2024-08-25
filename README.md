@@ -17,7 +17,8 @@
     passando os parametros 'consulta' e o 'dafatframe' novo, será possível realizar testes de consulta onde a pergunta, consulta será um 'embedding' que será mapeado dentro 
     do dataframe com os seus embeddings. O resultado cuja probabilidade (0 - 100%) deve ser a resposta da consulta. Supondo que tenha funcionado, o próximo passa será 
     pegar o dataframe e salva-lo em um arquivo chamado datasetEmbeddings.pkl. Ao salvar o DataFrame, ele é convertido em uma representação binária
-    que pode ser facilmente armazenada e carregada posteriormente.
+    que pode ser facilmente armazenada e carregada posteriormente. O código no Google Colab, seu dataframe, incluindo fotos de testes no Postman estão disponíveis nesse repositório
+    para download. 
   </p>
 </div>
 <div>
