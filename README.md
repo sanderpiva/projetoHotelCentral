@@ -42,6 +42,7 @@
   </ul>
 </div>
 <div>
+  <p>Algumas fotos do resultado dos testes no Postman</p>
   <p>Algumas fotos da aplicação final: </p>
   <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto1_app_hotel_central.png" alt="Foto 1: ChatBot Hotel Central">
   <p>Foto 1: ChatBot Hotel Central</p><br><br>
