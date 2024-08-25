@@ -8,7 +8,7 @@
   <p>
     Em termos de codifificação, em linhas gerais, foi implementado um código no Google Colab 'Hotel_Central_ChatbotBackend.ipynb' cujo dataframe (base de dados)
     é 'dados2_pln_sem_acento', onde após o correto carregamento do dados, do 'model = 'models/text-embedding-004', é chamado o método 'gerarEmbeddings' para gerar 
-    embeddings aos registros ou linhas do dataframe cujas colunas são 'Titulo' e 'Conteudo'.
+    embeddings aos registros ou linhas do dataframe cujas colunas são 'Titulo' e 'Conteudo'. Os embeddings são representações numéricas dos tokens processados na rede neural (768 camadas), porém essa numeração não representa diretamente o respectivo token em si, mas sim suas caracteristicas abstratas.
   </p>
 </div>
 <div>
