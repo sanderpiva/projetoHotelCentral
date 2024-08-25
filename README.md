@@ -30,8 +30,8 @@
   </p>
   <ol>
     <li>FlasK: https://github.com/sanderpiva/flask_hotel2.git</li>
-    <li></li>React: https://github.com/sanderpiva/react_hotel_central.git
-    <li></li>Vercel: https://react-hotel-central.vercel.app/
+    <li>React: https://github.com/sanderpiva/react_hotel_central.git</li>
+    <li>Vercel: https://react-hotel-central.vercel.app/</li>
   </ol>
 </div>
 <div>
