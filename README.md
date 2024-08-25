@@ -42,7 +42,7 @@
   </ul>
 </div>
 <div>
-  <p>Algumas fotos do resultado dos testes no Postman</p>
+  <p>Algumas fotos do resultado dos testes no Postman:</p>
   
   <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/Imgs_Testes_Postman_Flask_Local_rodando/1.png" alt="Foto 1: Teste Postman nº 1">
   <p>Foto 1: Teste Postman nº 1</p><br><br>
