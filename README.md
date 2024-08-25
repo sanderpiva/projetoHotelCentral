@@ -29,9 +29,9 @@
     são disponibilidados a seguir:
   </p>
   <ol>
-    FlasK: https://github.com/sanderpiva/flask_hotel2.git
-    React: https://github.com/sanderpiva/react_hotel_central.git
-    Vercel: https://react-hotel-central.vercel.app/
+    <li>FlasK: https://github.com/sanderpiva/flask_hotel2.git</li>
+    <li></li>React: https://github.com/sanderpiva/react_hotel_central.git
+    <li></li>Vercel: https://react-hotel-central.vercel.app/
   </ol>
 </div>
 <div>
