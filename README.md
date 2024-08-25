@@ -52,11 +52,11 @@
   <p>Foto 3: Teste Postman nº 3</p><br><br>
   
   <p>Algumas fotos da aplicação final: </p>
-  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto1_app_hotel_central.png" alt="Foto 1: ChatBot Hotel Central">
-  <p>Foto 1: ChatBot Hotel Central</p><br><br>
-  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto2_app_hotel_central.png" alt="Foto 2: Consulta sobre lazer e atrações do Hotel Central">
-  <p>Foto 2: Consulta sobre lazer e atrações do Hotel Central</p><br><br>
-  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto3_app_hotel_central.png" alt="Foto 3: As opções de lazer e atrações do Hotel Central">
-  <p>Foto 3: As opções de lazer e atrações do Hotel Central</p><br><br>
-
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto1_app_hotel_central.png" alt="Foto 3: ChatBot Hotel Central">
+  <p>Foto 3: ChatBot Hotel Central</p><br><br>
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto2_app_hotel_central.png" alt="Foto 4: Consulta sobre lazer e atrações do Hotel Central">
+  <p>Foto 4: Consulta sobre lazer e atrações do Hotel Central</p><br><br>
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto3_app_hotel_central.png" alt="Foto 5: As opções de lazer e atrações do Hotel Central">
+  <p>Foto 5: As opções de lazer e atrações do Hotel Central</p><br><br>
+  <h2>FIM</h2>
 </div>
