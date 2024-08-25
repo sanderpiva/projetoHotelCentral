@@ -25,11 +25,7 @@
 </div>
 <div>
   <p>
-    O arquivo exportado será utilizado para uma implementação em Flask, testado em máquina local e com a ferramenta Postman. Na sequencia o codigo em Flask é hospedado em uma
-    conta da Azure (Azure Students) para ser o 'backend' da aplicação. Uma vez que tudo tenha funcionado, é implementada uma aplicação em React para funcionar como 'frontend' 
-    e, com o endereço do projeto em Flask da Azure configurado, utilizar esse Flask para realizar consultas em um chatbot desenvolvido em React exclusivamente para a 
-    proposta do Hotel Central. Os repositórios para consulta do código em Flask, hospedado na Azure Students, do React e ainda do código da aplicação final hospedado na Vercel, 
-    são disponibilidados a seguir:
+    O arquivo exportado servirá como base para um projeto Flask, testado localmente e com o Postman. Em seguida, o backend Flask será hospedado na Azure Students. Após a configuração do      frontend React para consumir a API Flask, um chatbot será desenvolvido exclusivamente para o Hotel Central. Os repositórios dos projetos Flask, React e da aplicação final na Vercel       estão disponíveis nos links a seguir:
   </p>
   <ol>
     <li>Flask: https://github.com/sanderpiva/flask_hotel2.git</li>
@@ -40,7 +36,7 @@
 <div>
   <p>Integrantes do projeto: </p>
   <ul>
-    <li>Darlene Leão de Souza</li>
+    <li>Darlene Silva Leão De Souza</li>
     <li>Renan Feliciano Rocha</li>
     <li>Sander Gustavo Piva</li>
   </ul>
