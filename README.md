@@ -18,6 +18,25 @@
     do dataframe com os seus embeddings. O resultado cuja probabilidade (0 - 100%) deve ser a resposta da consulta. Supondo que tenha funcionado, o próximo passa será 
     pegar o dataframe e salva-lo em um arquivo chamado datasetEmbeddings.pkl. Ao salvar o DataFrame, ele é convertido em uma representação binária
     que pode ser facilmente armazenada e carregada posteriormente.
-    
   </p>
+</div>
+<div>
+  <p>
+    O arquivo exportado será utilizado para uma implementação em Flask, testado em máquina local e com a ferramenta Postman. Na sequencia o codigo em Flask é hospedado em uma
+    conta da Azure (Azure Students) para ser o 'backend' da aplicação. Uma vez que tudo tenha funcionado, é implementada uma aplicação em React para funcionar como 'frontend' 
+    e, com o endereço do projeto em Flask da Azure configurado, utilizar esse Flask para realizar consultas em um chatbot desenvolvido em React exclusivamente para a 
+    proposta do Hotel Central. Os repositórios para consulta do código em Flask, hospedado na Azure Students, do React e ainda do código da aplicação final hospedado na Vercel, 
+    são disponibilidados a seguir:
+  </p>
+  <ol>
+    FlasK:
+    React: 
+    Vercel:
+  </ol>
+</div>
+<div>
+  <p>Integrantes do projeto: </p>
+</div>
+<div>
+  <p>Uma foto da aplicação final: </p>
 </div>
