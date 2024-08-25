@@ -43,6 +43,11 @@
 </div>
 <div>
   <p>Algumas fotos do resultado dos testes no Postman</p>
+  
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/Imgs_Testes_Postman_Flask_Local_rodando/1.png" alt="Foto 1: Teste Postman nº 1"><br><br>
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/Imgs_Testes_Postman_Flask_Local_rodando/2.png" alt="Foto 2: Teste Postman nº 2"><br><br>
+  <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/Imgs_Testes_Postman_Flask_Local_rodando/1.png" alt="Foto 3: Teste Postman nº 3"><br><br>
+  
   <p>Algumas fotos da aplicação final: </p>
   <img src="https://github.com/sanderpiva/projetoHotelCentral/blob/main/fotos_hotel_central_vercel/foto1_app_hotel_central.png" alt="Foto 1: ChatBot Hotel Central">
   <p>Foto 1: ChatBot Hotel Central</p><br><br>
