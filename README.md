@@ -42,6 +42,8 @@
 </div>
 <div>
   <p>Algumas fotos da aplicação final: </p>
-  ![foto1_app_hotel-central](https://github.com/user-attachments/assets/44bdbfdc-33da-4ea3-afdd-5ab7c8024950)
+  <img src="caminho_da_imagem.jpg" alt="Foto 1: ChatBot Hotel Central">
+  <img src="caminho_da_imagem.jpg" alt="Foto 2: Consulta sobre lazer e atrações do Hotel Central">
+  <img src="caminho_da_imagem.jpg" alt="Foto 3: As opções de lazer e atrações do Hotel Central">
 
 </div>
