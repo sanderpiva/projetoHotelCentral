@@ -29,7 +29,7 @@
     são disponibilidados a seguir:
   </p>
   <ol>
-    FlasK:
+    FlasK: https://github.com/sanderpiva/flask_hotel2.git
     React: 
     Vercel:
   </ol>
